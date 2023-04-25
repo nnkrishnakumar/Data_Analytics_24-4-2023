@@ -1,0 +1,7 @@
+Intro of statistics:
+
+Arithmetic mean: range are same
+
+Geometric mean: range are disimilar 2X
+
+Harmonic mean : rate of change in unites(when to units divide together) 
