@@ -1,0 +1,8 @@
+Visualization : plot a graph to show your data.
+
+EDA: Exploratory data analysis
+	> pandas
+	> numpy
+	> Visualization(matplotlib,seaborn(CLI)),(Tableau,PowerBI)
+	> BI(Business Intelligence tools)
+	
